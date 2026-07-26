@@ -173,3 +173,5 @@ This project helped explore:
 - End-to-end full-stack development
 
 ## License
+
+MIT
