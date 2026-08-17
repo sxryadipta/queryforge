@@ -1,4 +1,4 @@
-# QueryForge
+# Queryforge
 
 A lightweight PostgreSQL query runner that provides a clean web interface to connect to PostgreSQL databases, execute SQL queries, and visualize results instantly.
 
